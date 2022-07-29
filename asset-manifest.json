@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/adm-pacientes/static/css/main.3becedc6.css",
+    "main.js": "/adm-pacientes/static/js/main.d517a0de.js",
+    "index.html": "/adm-pacientes/index.html",
+    "main.3becedc6.css.map": "/adm-pacientes/static/css/main.3becedc6.css.map",
+    "main.d517a0de.js.map": "/adm-pacientes/static/js/main.d517a0de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3becedc6.css",
+    "static/js/main.d517a0de.js"
+  ]
+}
